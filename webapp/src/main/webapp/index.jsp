@@ -4,7 +4,7 @@
   
 <h2> This Jenkins Job build with  the help of maven plugin </h2> 
 
-<h2> Deploying artifact into Tomcat server </h2>
+<h2> Deploying artifact into Tomcat server, using jenkins scripted file </h2>
 
 
 
